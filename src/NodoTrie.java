@@ -1,8 +1,8 @@
 public class NodoTrie {
-    NodoTrie[] A;
-    int b;
+    NodoTrie[] P;
+    int B;
     public NodoTrie() {
-        A = new NodoTrie[26];
-        b = 0;
+        P = new NodoTrie[26];
+        B = 0;
     }
 }
